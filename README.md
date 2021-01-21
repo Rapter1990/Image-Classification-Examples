@@ -10,7 +10,7 @@ Jupyter Notebook Viewer : https://nbviewer.jupyter.org/
     <th>Information</th>
   </tr>
   <tr>
-    <td><a href = "https://github.com/Rapter1990/Data-Visualization-Examples/tree/master/pubg">Fruit Image Classification</a></td>
+    <td><a href = "https://github.com/Rapter1990/Image-Classification-Examples/tree/master/fruit_image_classification">Fruit Image Classification</a></td>
     <td>Implementing image classification by using CNN</td>
   </tr>
   <tr>
