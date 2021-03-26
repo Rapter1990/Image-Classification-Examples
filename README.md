@@ -17,5 +17,9 @@ Jupyter Notebook Viewer : https://nbviewer.jupyter.org/
     <td><a href = "https://github.com/Rapter1990/Image-Classification-Examples/blob/master/Chinese_Calligraphy_Styles_by_Calligraphers.zip">Chinese Calligraphy Styles by Calligraphers</a></td>
     <td>Implementing image classification by using VGG16</td>
   </tr>
+  <tr>
+    <td><a href = "https://github.com/Rapter1990/Image-Classification-Examples/blob/master/Device%20Classification/README.md">Device Image Classification</a></td>
+    <td>Implementing image classification by using MobileNetV2</td>
+  </tr>
 </table>
 
