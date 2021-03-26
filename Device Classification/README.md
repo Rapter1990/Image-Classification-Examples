@@ -1,4 +1,4 @@
-# Device Image Classification with CNN
+# Device Image Classification with MobileNetV2
 
 Purpose :
     Implementing MobileNetV2 to classify devices with respect to its label defined in dataset.
