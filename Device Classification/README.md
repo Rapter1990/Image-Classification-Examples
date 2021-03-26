@@ -1,4 +1,4 @@
-# Fruit Image Classification with CNN
+# Image Classification with CNN
 
 Purpose :
     Implementing MobileNetV2 to classify devices with respect to its label defined in dataset.
