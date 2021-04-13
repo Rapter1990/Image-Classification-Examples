@@ -18,7 +18,7 @@ Jupyter Notebook Viewer : https://nbviewer.jupyter.org/
     <td>Implementing image classification by using VGG16</td>
   </tr>
   <tr>
-    <td><a href = "https://github.com/Rapter1990/Image-Classification-Examples/blob/master/Device%20Classification/README.md">Device Image Classification</a></td>
+    <td><a href = "https://github.com/Rapter1990/Image-Classification-Examples/blob/master/Device%20Classification">Device Image Classification</a></td>
     <td>Implementing image classification by using MobileNetV2</td>
   </tr>
 </table>
